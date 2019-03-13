@@ -1,0 +1,14 @@
+.wrapper {
+    overflow: hidden;
+    display: block;
+    width: 100%;
+}
+
+.move {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 0;
+    top: 0;
+    background-color: #333;
+}
